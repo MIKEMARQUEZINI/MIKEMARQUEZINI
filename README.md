@@ -1,11 +1,20 @@
+
+
 ### Welcome - I am Mike  😎
 
 
 
 ![MIKEMARQUEZINI GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemarquezini&show_icons=true&theme=vision-friendly-dark)
 
-## Skills in Development(s)
+<a href="https://github.com/MIKEMARQUEZINI/MIKEMARQUEZINI/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" /> 
+</a>
+<a href="https://github.com/MIKEMARQUEZINI/MIKEMARQUEZINI/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+</a>
 
+
+## Skills in Development(s)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemarquezini&=anuraghazra&theme=vision-friendly-dark&show_icons=true&hide_progress=true)](https://github.com/mikemarquezini/github-readme-stats)
 
