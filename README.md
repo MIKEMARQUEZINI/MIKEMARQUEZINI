@@ -1,6 +1,6 @@
 
 
-### Welcome - I am Mike  😎
+<h1 align="center">  Pleasure - Mike Marquezini  😎</h1>
 
 
 
@@ -17,15 +17,8 @@
 
 ## Skills in Development(s)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemarquezini&=mikemarquezini&theme=github_dark_dimmed&show_icons=true&hide_progress=true)](https://github.com/mikemarquezini/github-readme-stats)
-
-## Social media
-
-<div>
-
-  <a href="https://www.linkedin.com/in/mike-marquezini-a629b8114" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:marqueezini.mike@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mikemarquezini&bg_color=262626&color=ededed&line=44566f&point=4094b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-      
-</div>
+<img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     <img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+          
+          
+          
+          
