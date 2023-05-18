@@ -17,7 +17,7 @@
 
 ## Skills in Development(s)
 
-<img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     <img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="43" width="43" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    
           
           
           
