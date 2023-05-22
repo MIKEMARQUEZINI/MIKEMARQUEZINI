@@ -4,7 +4,7 @@
 
 
 
-![MIKEMARQUEZINI GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemarquezini&show_icons=true&theme=github_dark_dimmed)
+![MIKEMARQUEZINI GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemarquezini&show_icons=true&theme=apprentice)
 
 
 <a href="https://github.com/MIKEMARQUEZINI/MIKEMARQUEZINI/github-readme-stats/issues">
