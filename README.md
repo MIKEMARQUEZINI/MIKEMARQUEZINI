@@ -6,6 +6,8 @@
 
 ![MIKEMARQUEZINI GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemarquezini&show_icons=true&theme=apprentice)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemarquezini&hide_progress=true&theme=apprentice)](https://github.com/mikemarquezini/github-readme-stats)
+
 
 <a href="https://github.com/MIKEMARQUEZINI/MIKEMARQUEZINI/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" /> 
