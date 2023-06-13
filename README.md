@@ -16,7 +16,7 @@
  <img width="38" height="38" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="38" height="38" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>  <img width="38" height="38" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="38" height="38" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 </div> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemarquezini&hide_progress=true&theme=apprentice)](https://github.com/mikemarquezini/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemarquezini&layout=compact&theme=apprentice)
           
 ### Você também me encontra em:
 &nbsp; <a href="https://www.linkedin.com/in/mike-marquezini-a629b8114/" target="_blank"> 
