@@ -1,8 +1,7 @@
 # Hi Guys 👋
 
-My name is, Mike Marquezini
+## My name is, Mike Marquezini
 
-___
 ![](https://komarev.com/ghpvc/?username=MIKEMARQUEZINI&color=006bed)
 
 <h3>About</h3>
@@ -48,4 +47,4 @@ ___
 
 <h3>Where to find me</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/mike-marquezini-a629b8114/))](https://www.linkedin.com/in/mike-marquezini-a629b8114/)
+[![Linkedin](https://img.shields.io/badge/-Mike_Marquezini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/mike-marquezini-a629b8114/))](https://www.linkedin.com/in/mike-marquezini-a629b8114/)
