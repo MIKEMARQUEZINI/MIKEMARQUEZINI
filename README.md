@@ -1,52 +1,135 @@
-# Hi Guys 👋
+<h1 align="center">👋 Hi folks, I'm Mike</h1>
+<h3 align="center">FullStack Developer</h3>
 
-## My name is, Mike Marquezini
+<h3>Overview</h3>
 
-![](https://komarev.com/ghpvc/?username=MIKEMARQUEZINI&color=006bed)
-
-
-<h3>About</h3>
-
-- 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying **Systems Analysis and Development**.
-- 💼 Working as **Develop** **NodeJs** **Junior**
-- 🌱 &nbsp; Learning more about **Typescript** and **NodeJs**.
+
+- 🌱 I'm currently learning **NodeJs**
+
+- 📫 How to contact me **marquezini.mike@outlook.com**
+
+- ⚡ Curiosity **I really like FPS & MMORPG games**
+
+<h3>Current Languages 🚀 & Tools ⚙️ </h3>
 
 
-<h3>My Skills</h3>
-
-**Applications and data**
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+  <tbody>
+    <tr>
+     <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> Typescript
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          height="40"
+          alt="nodejs logo"
+        />
+        <img width="12" /> Node.js
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=express"
+          height="40"
+          alt="express logo"
+        />
+        <img width="12" /> Express
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+          alt="nestjs"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> NestJS
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          height="40"
+          alt="react logo"
+        />
+        <img width="12" /> React
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="40"
+          alt="git logo"
+        />
+        <img width="12" /> Git
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=linux"
+          height="40"
+          alt="linux logo"
+        />
+        <img width="12" /> Linux
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="40"
+          alt="docker logo"
+        />
+        <img width="12" /> Docker
+      </td>
+    </tr>
+    <tr>
+    <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+          height="40"
+          alt="redis logo"
+        />
+        <img width="12" /> Redis
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <img width="12" /> MongoDB
+      </td>
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          height="40"
+          alt="vscode logo"
+        />
+        <img width="12" /> VS Code
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+          height="40"
+          alt="jest logo"
+        />
+        <img width="12" /> Jest
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Utilities**
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**DevOps**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIKEMARQUEZINI&theme=dark&show_icons=true" />
-</a>
-
-<h3>Where to find me</h3>
-
-[![Linkedin](https://img.shields.io/badge/-Mike_Marquezini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/mike-marquezini-a629b8114/))](https://www.linkedin.com/in/mike-marquezini-a629b8114/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marquezini-mike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikemarquezini" height="30" width="40" /></a>
+</p>
+<hr/>
