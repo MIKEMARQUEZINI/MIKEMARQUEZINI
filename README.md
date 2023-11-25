@@ -122,11 +122,6 @@
   </tbody>
 </table>
 
-**Utilities**
-
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
