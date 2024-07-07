@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hi folks, I'm Mike</h1>
-<h3 align="center">FullStack Developer</h3>
 
 <h3>Overview</h3>
 
 - 🎓 Studying **Systems Analysis and Development**.
 
-- 🌱 I'm currently learning **NodeJs**
+- 🌱 I'm currently learning **ReactJs**
 
 - 📫 How to contact me **marquezini.mike@outlook.com**
 
