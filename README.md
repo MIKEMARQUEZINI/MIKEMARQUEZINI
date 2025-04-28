@@ -1,44 +1,39 @@
-<h1 align="center">👋 Hi folks, I'm Mike</h1>
 
-<h3>Overview</h3>
+# 👋 Hello, I'm Mike Marquezini!
 
-- 🎓 Studying **Systems Analysis and Development**.
+## 🚀 About Me
+I'm a passionate **Front-end Developer** focused on building beautiful, accessible, and user-centered web applications.
 
-- 🌱 I'm currently learning **ReactJs**
+Currently expanding my skills into:
+- 🧩 **UX Design** — focusing on creating better user experiences.
+- 🚀 **Node.js** — advanced Front-end development using React and server-side capabilities.
 
-- 📫 How to contact me **marquezini.mike@outlook.com**
+I'm always seeking to learn new technologies and improve my coding and design skills.
 
-- ⚡ Curiosity **I really like FPS & MMORPG games**
+---
 
-<h3>Current Languages 🚀 & Tools ⚙️ </h3>
+## 🛠️ Technologies & Tools
+- **Front-end:** React,  TypeScript, Styled-Components, JavaScript, HTML5, CSS3
+- **Back-end:** Node.js (Express), API REST, GraphQL
+- **Testing:** Jest, React Testing Library
+- **Tools:** Git, GitHub, VS Code, Vercel, Linux (Zsh)
 
+---
 
-<table>
-  <tbody>
-    <tr>
-     <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-          height="40"
-          alt="typescript logo"
-        />
-        <img width="12" /> Typescript
-      </td>
-         <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-          height="40"
-          alt="react logo"
-        />
-        <img width="12" /> React
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 📚 Current Learning
+- Advanced UX/UI Principles
+- Next.js (Fullstack Features: SSR, SSG, API Routes)
+- Front-end Performance Optimization
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marquezini-mike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikemarquezini" height="30" width="40" /></a>
-</p>
-<hr/>
+## 📈 GitHub Stats
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIKEMARQUEZINI&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/marquezini-mike/)
+---
+
+# 🚀 Let's create better web experiences together!
